@@ -9,6 +9,8 @@
 - [ ] Validar propuesta de arquitectura con el cliente
 - [ ] Generar metodologias de manejo (ej: issus tracker, etc)
 - [ ] Capacitar al equipo
+- [ ] Crear ambientes
+
 
 
 
